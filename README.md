@@ -4,6 +4,8 @@
 This project is a simple voting app where users can see the multiple voting options for different questions, give their votes with their choices, and see a dynamic chart based on their votes.
 
 ## Screentshots of this project
+![voting_app_ss](https://user-images.githubusercontent.com/99888997/227127451-6b277c59-df01-49eb-95f7-b2bc64193ca6.png)
+
 
 ## How to install and run this project
 
