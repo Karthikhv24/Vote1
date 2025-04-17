@@ -12,7 +12,7 @@ This project is a simple voting app where users can see the multiple voting opti
 Make a clone or download this project .
 For making a clone, run this command in your terminal:
 
-`git clone git@github.com:Khalidur-sujon/Voting-app.git`
+`https://github.com/Karthikhv24/Voting-App.git`
 
 After downloading or cloning, you have to install (if it is not already installed) Django on your machine. For installing Django (in Linux), follow this command:
 
